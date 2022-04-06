@@ -1,0 +1,16 @@
+.board{
+	background-color: #333;
+	color: white;
+	border: 2px;
+	border-style: solid;
+	border-color: red;
+
+}
+.white{
+	background-color: #333;
+	color: white;
+	border: 2px;
+	border-style: solid;
+	border-color: red;
+
+}

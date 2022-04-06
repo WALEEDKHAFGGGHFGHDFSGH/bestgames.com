@@ -1,0 +1,26 @@
+.red{
+	background: linear-gradient(to bottom right, #2196f3, #009688);
+	color: white;
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	color: #fff;
+		}
+		body{
+			font-family: "dosis", sans-serif;
+		}
+		h1{
+			font-size: 3em;
+		}
+		h2{
+			font-size: 2em;
+		}
+		h3{
+			font-size: 1.5em;
+		}
+		.you{
+			color: white;
+			background-color: #333;
+		}
